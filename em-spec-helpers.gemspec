@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
 Helpers for writing RSpec examples for EventMachine-based code.
   DESC
 
-  gem.authors = ['Sam Stokes']
+  gem.authors = ['Conrad Irwin', 'Sam Stokes']
   gem.email = %w(sam@rapportive.com)
   gem.homepage = 'https://github.com/rapportive/em-spec-helpers'
 
